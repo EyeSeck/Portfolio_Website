@@ -1,0 +1,29 @@
+/* body{
+    color: #514644;
+    background-color: #e0bba5;
+    margin: 0;
+    border-style: solid;
+    border-width: 1.5vh;
+    border-color: white;
+    height: 100vh;
+    padding: 5vh;
+    border-radius: 30px;
+} */
+body {
+    color: #514644;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    height: 100vh;
+    width: 100vh;
+}
+.container {
+    background-color: #e0bba5;
+    padding: 5vh;
+    margin: 2vh;
+    border-radius: 2px;
+    height: 100%;
+}
+.element {
+}
